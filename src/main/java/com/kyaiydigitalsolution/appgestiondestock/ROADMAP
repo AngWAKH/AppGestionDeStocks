@@ -1,0 +1,14 @@
+
+   Backend :
+-	Conception (UML : diagramme de classe)
+-	Créer un projet Spring Boot
+-	Configurer le projet
+-	Créer les entités (models), les services, …
+-	Configurer Swagger (API Documentation)
+-	Générer le swagger.json -> Générer les services, model pour l’application Front.
+
+Frontend :
+-	Créer et expliquer le projet Angular
+-	Découper l’application en components
+-	Créer les components
+-	Créer les services
